@@ -1,0 +1,12 @@
+{
+    "image": "docker.io/eclipse-temurin:11",
+    "extensions": [
+      "ms-python.python"
+    ],
+    "features": {
+      "ghcr.io/devcontainers/features/github-cli:1": {}
+    },
+    "settings": {
+      "workbench.colorTheme": "Solarized Dark"
+    }
+  }
