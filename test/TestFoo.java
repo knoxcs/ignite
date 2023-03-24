@@ -13,4 +13,3 @@ public class TestFoo {
     }
 
 }
-// GitDoc test
