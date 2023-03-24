@@ -16,6 +16,7 @@
         "redhat.java",
         "tomoki1207.pdf",
         "vscjava.vscode-java-debug",
+        "vscjava.vscode-java-test",
         "vsls-contrib.gitdoc"
       ],
       "settings": {
