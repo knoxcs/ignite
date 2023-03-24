@@ -1,1 +1,1 @@
-FROM ubuntu:latest
+FROM eclipse-temurin:11
