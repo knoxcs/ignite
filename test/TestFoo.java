@@ -11,4 +11,5 @@ public class TestFoo {
     public void test2() {
         assert Foo.foo() == true;
     }
+    
 }
