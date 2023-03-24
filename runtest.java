@@ -3,7 +3,7 @@ import org.junit.Test;
 
 public class runtest {
     @Test
-    void test() {
+    public void test() {
         assert test.foo() == false;
     }
 }
